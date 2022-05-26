@@ -1,6 +1,6 @@
 # stopwatch
 A simple python stopwatch
 
-##Running:
+## Running:
 py swrunner.py
 
